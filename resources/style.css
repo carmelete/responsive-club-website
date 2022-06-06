@@ -43,7 +43,6 @@ header {
 
 .summary {
     padding: 0 1rem;
-    margin: 4rem auto;
 }
 
 .summary h2 {
@@ -53,3 +52,13 @@ header {
 .summary p {
     color: white;
 }
+
+.photos img {
+    margin: 1.55%;;
+    width: 30%;
+}
+
+.summary, .photos {
+    margin: 4rem auto;
+}
+

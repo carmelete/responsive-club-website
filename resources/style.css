@@ -58,7 +58,14 @@ header {
     width: 30%;
 }
 
-.summary, .photos {
+.summary, .photos, .testimonial {
     margin: 4rem auto;
 }
+
+.testimonial {
+    background-color: #2F6D8F;
+    color: yellow;
+    padding: 3rem 1rem;
+}
+
 

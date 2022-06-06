@@ -23,3 +23,20 @@ header {
     color: #DB973D;
     text-decoration: none;
 }
+
+.intro {
+    width: 100%;
+    height: 30rem;
+    display: flex;
+    align-items: center;
+}
+
+.intro h1 {
+    background-color: #8F5E1E;
+    color: white;
+    height: auto;
+    width: 100%;
+    text-align: center;
+    font-size: 2rem;
+    padding: 2rem;
+}

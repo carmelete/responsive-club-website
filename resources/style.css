@@ -40,3 +40,16 @@ header {
     font-size: 2rem;
     padding: 2rem;
 }
+
+.summary {
+    padding: 0 1rem;
+    margin: 4rem auto;
+}
+
+.summary h2 {
+    color: #2F6D8F;
+}
+
+.summary p {
+    color: white;
+}
